@@ -1,0 +1,35 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>shows</name>
+            <path pathversion="1">nfs://192.168.1.69/srv/nfs/shows/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>movies</name>
+            <path pathversion="1">nfs://192.168.1.69/srv/nfs/movies/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>a4kSubtitles</name>
+            <path pathversion="1">https://a4k-openproject.github.io/a4kSubtitles/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

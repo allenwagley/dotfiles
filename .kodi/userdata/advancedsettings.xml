@@ -1,0 +1,46 @@
+<advancedsettings>
+  <videodatabase>
+    <type>mysql</type>
+    <host>192.168.1.69</host>
+    <port>3306</port>
+    <user>kodi</user>
+    <pass>kodi</pass>
+  </videodatabase> 
+  <musicdatabase>
+    <type>mysql</type>
+    <host>192.168.1.69</host>
+    <port>3306</port>
+    <user>kodi</user>
+    <pass>kodi</pass>
+  </musicdatabase>
+  <videolibrary>
+    <importwatchedstate>true</importwatchedstate>
+    <importresumepoint>true</importresumepoint>
+  </videolibrary>
+  <video>
+      <excludefromscan>
+          <regexp>[-\._ ](extrafanart|sample|trailer|extrathumbs)[-\._ ]</regexp>
+          <regexp>sample.mkv</regexp>
+          <regexp>Sample.mkv</regexp>
+      </excludefromscan>
+      <excludefromlisting>
+          <regexp>[-._ \\/](extrafanart|sample|trailer|extrathumbs)[-._ \\/]</regexp>
+          <regexp>sample.mkv</regexp>
+          <regexp>Sample.mkv</regexp>
+      </excludefromlisting>
+      <!-- Extras: Section Start -->
+      <excludefromscan action="append">
+   	  <regexp>(/extras/|/featurettes/)</regexp>
+          <regexp>[\\/](extras|featurettes)[\\/]</regexp>
+	  <regexp>(/Extras/|/Featurettes/)</regexp>
+          <regexp>[\\/](Extras|Featurettes)[\\/]</regexp>
+      </excludefromscan>
+      <excludetvshowsfromscan action="append">
+	  <regexp>(/extras/|/featurettes/)</regexp>
+          <regexp>[\\/](extras|featurettes)[\\/]</regexp>
+	  <regexp>(/Extras/|/Featurettes/)</regexp>
+          <regexp>[\\/](Extras|Featurettes)[\\/]</regexp>
+     </excludetvshowsfromscan>
+      <!-- Extras: Section End -->
+   </video>
+</advancedsettings>

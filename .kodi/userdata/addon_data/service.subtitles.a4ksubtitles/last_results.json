@@ -1,0 +1,55 @@
+{
+  "hash": "8876d3c10d7ada8db2423ca87e117fcf74bf3968808b28ab75519125bdd346cd",
+  "timestamp": 1705794375.3340485,
+  "results": [
+    {
+      "service_name": "bsplayer",
+      "service": "BSPlayer",
+      "lang": "English",
+      "name": "Im.Westen.nichts.Neues.2022.1080p.WEBDL.x264.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "true",
+      "impaired": "false",
+      "color": "gold",
+      "action_args": {
+        "url": "http://download.bsplayer-subtitles.com/download/file/51798223/dccc4e14e6b29c327b1a7a1109125aeb1",
+        "lang": "English",
+        "filename": "Im.Westen.nichts.Neues.2022.1080p.WEBDL.x264.srt",
+        "gzip": true
+      }
+    },
+    {
+      "service_name": "podnadpisi",
+      "service": "Podnadpisi",
+      "lang": "English",
+      "name": "All.Quiet.on.the.Western.Front.2022.1080p.NF.WEBRip.1600MB.DD5.1.x264-GalaxyRG.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "true",
+      "color": "orange",
+      "action_args": {
+        "url": "https://www.podnapisi.net/en/subtitles/en-im-westen-nichts-neues-2022/nJdH/download",
+        "lang": "English",
+        "filename": "All.Quiet.on.the.Western.Front.2022.1080p.NF.WEBRip.1600MB.DD5.1.x264-GalaxyRG.srt"
+      }
+    },
+    {
+      "service_name": "podnadpisi",
+      "service": "Podnadpisi",
+      "lang": "English",
+      "name": "All.Quiet.on.the.Western.Front.2022.1080p.NF.WEBRip.1600MB.DD5.1.x264-GalaxyRG.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "false",
+      "color": "orange",
+      "action_args": {
+        "url": "https://www.podnapisi.net/en/subtitles/en-im-westen-nichts-neues-2022/mpdH/download",
+        "lang": "English",
+        "filename": "All.Quiet.on.the.Western.Front.2022.1080p.NF.WEBRip.1600MB.DD5.1.x264-GalaxyRG.srt"
+      }
+    }
+  ]
+}
