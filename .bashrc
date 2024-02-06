@@ -10,3 +10,4 @@ alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 alias config='/usr/bin/git --git-dir=/home/allen/.myconfig --work-tree=/home/allen'
 alias tsm='transmission-remote'
+alias syncth="syncthing --browser-only"

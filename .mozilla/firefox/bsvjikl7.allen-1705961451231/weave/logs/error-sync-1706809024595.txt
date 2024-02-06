@@ -1,0 +1,602 @@
+1706808423861	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1706808423867	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1706808423868	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1706808425763	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808425763	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808425763	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808426763	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808426764	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808426764	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808428782	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808428782	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808428782	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808429782	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808429782	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808429782	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808431782	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808431782	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808431782	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808432783	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808432783	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808432783	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808434801	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808434801	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808434801	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808435801	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808435801	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808435801	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808436803	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808436803	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808436803	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808438803	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808438804	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808438804	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808439804	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808439804	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808439804	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808440822	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808440822	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808440822	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808442822	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808442822	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808442822	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808443823	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808443823	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808443823	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808444824	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808444825	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808444825	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808446842	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808446842	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808446842	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808447843	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808447843	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808447843	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808449845	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808449845	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808449845	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808450845	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808450845	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808450845	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808452863	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808452863	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808452863	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808453864	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808453864	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808453864	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808455864	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808455864	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808455864	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808456865	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808456866	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808456866	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808458883	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808458884	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808458884	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808459884	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808459884	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808459884	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808461886	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808461886	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808461886	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808462886	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808462886	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808462886	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808464886	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808464887	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808464887	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808465887	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808465887	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808465887	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808466889	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808466889	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808466889	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808468889	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808468889	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808468889	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808469890	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808469890	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808469890	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808471890	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808471890	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808471890	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808472891	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808472891	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808472891	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808473892	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808473892	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808473892	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808475910	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808475910	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808475911	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808476911	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808476912	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808476912	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808478911	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808478912	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808478912	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808479911	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808479912	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808479912	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808481929	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808481930	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808481930	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808482930	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808482931	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808482931	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808484929	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808484929	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808484929	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808485930	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808485931	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808485931	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808487948	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808487949	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808487949	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808488950	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808488950	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808488950	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808489951	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808489951	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808489952	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808491951	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808491951	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808491951	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808492952	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808492952	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808492952	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808493970	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808493970	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808493970	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808495970	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808495970	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808495970	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808496970	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808496971	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808496971	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808498971	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808498971	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808498971	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808499988	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808499988	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808499988	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808501990	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808501990	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808501990	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808502991	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808502991	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808502991	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808503991	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808503991	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808503992	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808505009	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808505009	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808505009	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808506010	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808506010	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808506010	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808507011	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808507011	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808507011	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808508012	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808508012	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808508012	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808509013	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808509013	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808509013	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808510014	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808510014	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808510014	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808511015	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808511015	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808511015	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808512016	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808512016	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808512016	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808513016	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808513016	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808513016	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808514018	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808514018	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808514018	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808515019	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808515020	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808515020	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808516020	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808516020	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808516020	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808517038	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808517039	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808517039	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808518039	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808518039	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808518039	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808519040	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808519040	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808519040	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808521040	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808521040	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808521040	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808522041	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808522041	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808522041	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808523042	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808523042	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808523042	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808524043	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808524043	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808524043	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808525044	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808525044	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808525044	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808526045	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808526045	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808526045	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808528045	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808528045	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808528045	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808529046	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808529046	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808529046	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808531047	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808531047	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808531047	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808532048	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808532048	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808532048	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808533048	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808533048	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808533048	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808535050	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808535050	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808535050	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808536051	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808536051	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808536051	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808537067	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808537068	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808537068	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808539103	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808539103	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808539103	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808540086	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808540086	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808540086	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808541087	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808541087	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808541087	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808542088	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808542089	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808542089	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808543087	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808543087	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808543087	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808544089	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808544090	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808544090	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808545105	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808545106	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808545106	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808546105	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808546105	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808546105	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808547106	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808547106	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808547106	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808548108	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808548109	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808548109	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808549107	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808549108	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808549108	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808551125	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808551125	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808551125	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808552125	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808552126	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808552126	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808554126	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808554126	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808554126	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808555126	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808555126	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808555126	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808557144	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808557144	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808557144	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808558145	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808558145	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808558146	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808559147	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808559147	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808559147	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808559921	FirefoxAccounts	ERROR	Pairing channel error: Error: WebSocket unexpectedly closed(resource://gre/modules/FxAccountsPairingChannel.sys.mjs:3599:20) JS Stack trace: FxAccountsPairingChannel</_setupListeners/<@FxAccountsPairingChannel.sys.mjs:3599:20
+1706808561147	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808561147	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808561147	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808562147	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808562147	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808562148	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808563165	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808563165	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808563165	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808565165	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808565166	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808565166	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808566166	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808566166	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808566166	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808568166	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808568166	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808568166	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808569167	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808569167	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808569167	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808571167	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808571168	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808571168	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808572241	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808572241	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808572241	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808574169	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808574169	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808574169	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808575168	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808575168	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808575168	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808577170	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808577171	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808577171	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808578170	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808578170	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808578170	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808580186	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808580186	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808580186	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808580312	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:fxa_status
+1706808580312	FirefoxAccounts	DEBUG	fxa_status received
+1706808580312	FirefoxAccounts	DEBUG	service: sync
+1706808580312	FirefoxAccounts	DEBUG	is private browsing: false
+1706808580351	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:loaded
+1706808580351	FirefoxAccounts	WARN	Unrecognized FxAccountsWebChannel command: fxaccounts:loaded
+1706808581308	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808581308	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808581308	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808581403	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_preferences
+1706808581536	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1706808581536	FirefoxAccounts	DEBUG	getOAuthToken enter
+1706808581536	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1706808581536	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1706808581536	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1706808581768	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile 304
+1706808582309	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808582310	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808582310	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808584328	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808584329	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808584329	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808585361	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808585361	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808585361	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808586369	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808586369	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808586369	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808588472	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808588473	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808588473	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808589496	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808589496	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808589496	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808589890	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1706808589891	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1706808590497	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808590497	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808590497	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808591502	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808591502	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808591502	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808592550	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808592550	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808592551	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808594565	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808594566	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808594566	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808595567	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808595567	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808595567	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808596625	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808596625	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808596626	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808596635	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:fxa_status
+1706808596636	FirefoxAccounts	DEBUG	fxa_status received
+1706808596636	FirefoxAccounts	DEBUG	service: a2270f727f45f648
+1706808596636	FirefoxAccounts	DEBUG	is private browsing: false
+1706808596638	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_supplicant_metadata
+1706808596638	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_supplicant_metadata received
+1706808597625	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808597625	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808597626	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808597673	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808597673	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808598702	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808598702	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808598702	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808599707	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808599708	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808599708	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808599712	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808599712	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808600714	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808600714	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808601714	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808601714	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808601714	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808601726	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808601726	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808602715	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808602715	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808602715	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808602731	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808602731	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808603728	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808603729	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808603729	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808603732	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808603732	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808604734	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808604734	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808604734	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808604734	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808604734	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808605737	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808605738	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808605738	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808605738	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808605738	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808606740	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808606740	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808606740	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808606741	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808606741	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808607742	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808607742	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808607742	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808607745	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808607745	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808608746	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808608746	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808608746	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808608752	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808608752	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808608955	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_authorize
+1706808608955	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_authorize received
+1706808608957	Services.Common.RESTRequest	DEBUG	POST request to https://api.accounts.firefox.com/v1/account/scoped-key-data
+1706808608957	Services.Common.RESTRequest	DEBUG	POST Length: 136
+1706808609566	Services.Common.RESTRequest	DEBUG	POST https://api.accounts.firefox.com/v1/account/scoped-key-data 200
+1706808609566	Hawk	DEBUG	(Response) /account/scoped-key-data: code: 200 - Status text: 
+1706808609566	Hawk	DEBUG	Clock offset vs https://api.accounts.firefox.com/v1: 31434
+1706808609591	Services.Common.RESTRequest	DEBUG	POST request to https://api.accounts.firefox.com/v1/oauth/authorization
+1706808609591	Services.Common.RESTRequest	DEBUG	POST Length: 920
+1706808609749	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808609749	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808609749	FirefoxAccounts	WARN	Could not find a pairing flow for VpPg09u4oQHBidj_edYZZQ
+1706808609750	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808609750	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808609813	Services.Common.RESTRequest	DEBUG	POST https://api.accounts.firefox.com/v1/oauth/authorization 200
+1706808609814	Hawk	DEBUG	(Response) /oauth/authorization: code: 200 - Status text: 
+1706808609814	Hawk	DEBUG	Clock offset vs https://api.accounts.firefox.com/v1: 31186
+1706808609869	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_complete
+1706808609869	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_complete received
+1706808610750	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808610750	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808610750	FirefoxAccounts	WARN	Could not find a pairing flow for BLI2N-_PRTIAVwgZisZg8w
+1706808610916	FirefoxAccounts	TRACE	observed topic=push-message, data=chrome://fxa-device-update, subject=[xpconnect wrapped nsISupports]
+1706808610917	FirefoxAccounts	TRACE	FxAccountsPushService _onPushMessage
+1706808610917	FirefoxAccounts	DEBUG	push command: fxaccounts:device_connected
+1706808610917	FirefoxAccounts	INFO	fetching updated device list
+1706808610954	Services.Common.RESTRequest	DEBUG	GET request to https://api.accounts.firefox.com/v1/account/devices?filterIdleDevicesTimestamp=1704994210923
+1706808611205	Services.Common.RESTRequest	DEBUG	GET https://api.accounts.firefox.com/v1/account/devices?filterIdleDevicesTimestamp=1704994210923 200
+1706808611205	Hawk	DEBUG	(Response) /account/devices?filterIdleDevicesTimestamp=1704994210923: code: 200 - Status text: 
+1706808611205	Hawk	DEBUG	Clock offset vs https://api.accounts.firefox.com/v1: 30795
+1706808611206	FirefoxAccounts	INFO	Got new device list: 939f539f07c14cdd7f9e71b0b8c39906, 9cae663f070cee147dbfe710f5131154, c00fcd7aeef66ea42d52e7d7036cb0e0
+1706808611208	FirefoxAccounts	TRACE	Our push subscription looks OK
+1706808611208	FirefoxAccounts	INFO	updating the cache
+1706808611752	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808611752	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808611752	FirefoxAccounts	WARN	Could not find a pairing flow for BLI2N-_PRTIAVwgZisZg8w
+1706808612752	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:pair_heartbeat
+1706808612752	FirefoxAccounts	DEBUG	Pairing command fxaccounts:pair_heartbeat received
+1706808612752	FirefoxAccounts	WARN	Could not find a pairing flow for BLI2N-_PRTIAVwgZisZg8w
+1706808882021	FirefoxAccounts	ERROR	Pairing channel error: Error: WebSocket unexpectedly closed(resource://gre/modules/FxAccountsPairingChannel.sys.mjs:3599:20) JS Stack trace: FxAccountsPairingChannel</_setupListeners/<@FxAccountsPairingChannel.sys.mjs:3599:20
+1706809023862	Sync.Service	DEBUG	User-Agent: Firefox/122.0 (Linux x86_64) FxSync/1.124.0.20240123151424.desktop
+1706809023863	Sync.Service	INFO	Starting sync at 2024-02-01 11:37:03 in browser session H2bAt5UyepoK
+1706809023863	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1706809023867	Sync.Status	INFO	Resetting Status.
+1706809023867	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1706809023869	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1706809023869	FirefoxAccounts	DEBUG	getOAuthToken enter
+1706809023870	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1706809023870	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1706809023871	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1706809024030	Sync.Resource	DEBUG	GET success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/211822579/info/collections
+1706809024031	Sync.Service	DEBUG	Fetching server configuration: https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/211822579/info/configuration
+1706809024104	Sync.Resource	DEBUG	GET success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/211822579/info/configuration
+1706809024105	Sync.Service	DEBUG	Fetching global metadata record
+1706809024105	Sync.Service	DEBUG	Clearing cached meta record. metaModified is 1706808364.68, setting to 1706808455.4
+1706809024145	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile 304
+1706809024226	Sync.Resource	DEBUG	GET success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/211822579/storage/meta/global
+1706809024226	Sync.Service	DEBUG	Weave Version: 1.124.0 Local Storage: 5 Remote Storage: 5
+1706809024226	Sync.Service	DEBUG	Fetching and verifying -- or generating -- symmetric keys.
+1706809024226	Sync.Service	INFO	Testing info/collections: {"clients":1706808644.22,"meta":1706808455.4,"crypto":1706808185.44,"bookmarks":1706808665.79}
+1706809024226	Sync.CollectionKeyManager	INFO	Testing for updateNeeded. Last modified: 1706808185.44
+1706809024226	Sync.Synchronizer	DEBUG	Refreshing client list.
+1706809024227	Sync.Engine.Clients	DEBUG	Resetting clients last sync time
+1706809024229	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1706809024333	Sync.Collection	DEBUG	GET success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/211822579/storage/clients?full=1&limit=1000
+1706809024347	Sync.Engine.Clients	INFO	Records: 1 applied, 1 successfully, 0 failed to apply, 0 newly failed to apply, 2 reconciled.
+1706809024348	Sync.Engine.Clients	DEBUG	Refreshing the known stale clients list
+1706809024352	Sync.Engine.Clients	INFO	Uploading 0 outgoing records
+1706809024353	Sync.SyncScheduler	DEBUG	Client count: 2 -> 3
+1706809024354	Sync.Synchronizer	INFO	Updating enabled engines: 3 clients.
+1706809024356	Sync.Synchronizer	INFO	Syncing all enabled engines.
+1706809024357	Sync.Engine.Bookmarks	DEBUG	Checking if server sync ID sExq_goK6LU3 matches existing
+1706809024366	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1706809024495	Sync.Collection	DEBUG	GET success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/211822579/storage/bookmarks?newer=1706808326.6&full=1&sort=oldest&limit=1000
+1706809024540	Sync.Engine.Bookmarks	INFO	Records: 6 applied, 6 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1706809024541	Sync.Engine.Bookmarks.Mirror	DEBUG	Merging bookmarks in Rust
+1706809024545	Sync.Engine.Bookmarks.Mirror	DEBUG	Building local tree
+1706809024553	Sync.Engine.Bookmarks.Mirror	DEBUG	Building remote tree
+1706809024559	Sync.Engine.Bookmarks.Mirror	DEBUG	Building merged tree
+1706809024560	Sync.Engine.Bookmarks.Mirror	DEBUG	Applying merged tree
+1706809024560	Sync.Engine.Bookmarks.Mirror	DEBUG	Updating local items in Places
+1706809024560	Sync.Engine.Bookmarks.Mirror	DEBUG	Cleaning up observer notifications left from last sync
+1706809024560	Sync.Engine.Bookmarks.Mirror	DEBUG	Inserting Places for new items
+1706809024561	Sync.Engine.Bookmarks.Mirror	DEBUG	Staging apply remote item ops
+1706809024562	Sync.Engine.Bookmarks.Mirror	DEBUG	Staging change GUID ops
+1706809024562	Sync.Engine.Bookmarks.Mirror	DEBUG	Staging apply new local structure ops
+1706809024562	Sync.Engine.Bookmarks.Mirror	DEBUG	Removing tombstones for revived items
+1706809024562	Sync.Engine.Bookmarks.Mirror	DEBUG	Inserting new tombstones for non-syncable and invalid items
+1706809024562	Sync.Engine.Bookmarks.Mirror	DEBUG	Removing local items
+1706809024562	Sync.Engine.Bookmarks.Mirror	DEBUG	Recording observer notifications for removed items
+1706809024562	Sync.Engine.Bookmarks.Mirror	DEBUG	Recalculating frecencies for removed bookmark URLs
+1706809024563	Sync.Engine.Bookmarks.Mirror	DEBUG	Removing annos for deleted items
+1706809024563	Sync.Engine.Bookmarks.Mirror	DEBUG	Removing keywords associated with deleted bookmarks
+1706809024563	Sync.Engine.Bookmarks.Mirror	DEBUG	Removing deleted items from Places
+1706809024564	Sync.Engine.Bookmarks.Mirror	DEBUG	Changing GUIDs
+1706809024564	Sync.Engine.Bookmarks.Mirror	DEBUG	Applying remote items
+1706809024564	Sync.Engine.Bookmarks.Mirror	DEBUG	Recording item added notifications for new items
+1706809024564	Sync.Engine.Bookmarks.Mirror	DEBUG	Recording item changed notifications for existing items
+1706809024565	Sync.Engine.Bookmarks.Mirror	DEBUG	Removing old keywords
+1706809024565	Sync.Engine.Bookmarks.Mirror	DEBUG	Removing old tags
+1706809024566	Sync.Engine.Bookmarks.Mirror	DEBUG	Upserting new items
+1706809024568	Sync.Engine.Bookmarks.Mirror	DEBUG	Flagging frecencies for recalculation
+1706809024568	Sync.Engine.Bookmarks.Mirror	DEBUG	Inserting new keywords for new URLs
+1706809024568	Sync.Engine.Bookmarks.Mirror	DEBUG	Inserting new tags for new URLs
+1706809024569	Sync.Engine.Bookmarks.Mirror	DEBUG	Applying new local structure
+1706809024570	Sync.Engine.Bookmarks.Mirror	DEBUG	Resetting change counters for items that shouldn't be uploaded
+1706809024570	Sync.Engine.Bookmarks.Mirror	DEBUG	Bumping change counters for items that should be uploaded
+1706809024570	Sync.Engine.Bookmarks.Mirror	DEBUG	Flagging applied remote items as merged
+1706809024570	Sync.Engine.Bookmarks.Mirror	DEBUG	Staging items to upload
+1706809024570	Sync.Engine.Bookmarks.Mirror	DEBUG	Cleaning up staged items left from last sync
+1706809024570	Sync.Engine.Bookmarks.Mirror	DEBUG	Staging items with older local dates added
+1706809024571	Sync.Engine.Bookmarks.Mirror	DEBUG	Staging remaining locally changed items for upload
+1706809024571	Sync.Engine.Bookmarks.Mirror	DEBUG	Staging structure to upload
+1706809024571	Sync.Engine.Bookmarks.Mirror	DEBUG	Staging tags to upload
+1706809024571	Sync.Engine.Bookmarks.Mirror	DEBUG	Staging tombstones to upload
+1706809024579	Sync.Engine.Bookmarks.Mirror	DEBUG	Merging bookmarks in Rust took 38.227ms
+1706809024579	Sync.Engine.Bookmarks.Mirror	DEBUG	Notifying Places observers
+1706809024586	Sync.Engine.Bookmarks.Mirror	DEBUG	Notifying Places observers took 6.762ms
+1706809024586	Sync.Engine.Bookmarks.Mirror	DEBUG	Fetching records for local items to upload
+1706809024587	Sync.Engine.Bookmarks.Mirror	DEBUG	Fetching records for local items to upload took 0.883ms
+1706809024587	Sync.Engine.Bookmarks	INFO	Uploading 0 outgoing records
+1706809024588	Sync.Engine.Bookmarks.BookmarkSyncUtils	DEBUG	pushChanges: Processed change records: {"weak":0,"skipped":0,"updated":0}
+1706809024589	Sync.Doctor	INFO	Skipping check of bookmarks - disabled via preferences
+1706809024589	Sync.Doctor	INFO	Skipping validation: no engines qualify
+1706809024589	Sync.Status	DEBUG	Status.sync: success.sync => success.sync
+1706809024589	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1706809024590	Sync.Synchronizer	INFO	Sync completed at 2024-02-01 11:37:04 after 0.72 secs.
+1706809024590	Sync.Declined	DEBUG	Handling remote declined: ["history","passwords","addons","tabs","prefs","creditcards","forms"]
+1706809024590	Sync.Declined	DEBUG	Handling local declined: ["history","passwords","addons","tabs","prefs","creditcards","forms"]
+1706809024590	Sync.Declined	DEBUG	Declined changed? false
+1706809024591	Sync.Service	INFO	No change to declined engines. Not reuploading meta/global.
+1706809024591	Sync.SyncScheduler	DEBUG	Next sync in 90000 ms. (why=schedule)

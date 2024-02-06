@@ -1,8 +1,8 @@
 <settings>
     <setting id="osdautoclose" type="bool">false</setting>
-    <setting id="home_no_categories_widget" type="bool">false</setting>
     <setting id="touchmode" type="bool">false</setting>
     <setting id="circle_rating" type="bool">false</setting>
+    <setting id="home_no_categories_widget" type="bool">false</setting>
     <setting id="homemenunomusicbutton" type="bool">false</setting>
     <setting id="homemenunomusicvideobutton" type="bool">false</setting>
     <setting id="homemenunotvbutton" type="bool">false</setting>
@@ -29,11 +29,11 @@
     <setting id="tvshow_onclick_playfrombeginning" type="bool">false</setting>
     <setting id="tvshow_onclick_playnext" type="bool">false</setting>
     <setting id="tvshow_onclick_queue" type="bool">false</setting>
-    <setting id="MovieGenreFanart.ext" type="string"></setting>
-    <setting id="homefanart.path" type="string"></setting>
-    <setting id="WeatherFanart.path" type="string"></setting>
-    <setting id="MovieGenreFanart.path" type="string"></setting>
     <setting id="WeatherFanart.ext" type="string"></setting>
+    <setting id="homefanart.path" type="string"></setting>
+    <setting id="MovieGenreFanart.path" type="string"></setting>
+    <setting id="MovieGenreFanart.ext" type="string"></setting>
+    <setting id="WeatherFanart.path" type="string"></setting>
     <setting id="HomeFanart.ext" type="string"></setting>
     <setting id="background_overlay" type="string"></setting>
     <setting id="osdautoclosetime" type="string"></setting>
